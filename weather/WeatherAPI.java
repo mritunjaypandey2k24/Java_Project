@@ -9,7 +9,7 @@ import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 
 public class WeatherAPI {
-    private static final String API_KEY = "71cb53732e68ba13de7e381883e80c7b";
+    private static final String API_KEY = "Your_API_KEY";
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5/forecast";
 
 
